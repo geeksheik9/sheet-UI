@@ -1,0 +1,21 @@
+mat-card-header {
+  background-color: black;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 10px;
+  color: white;
+}
+
+mat-card-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+mat-card {
+  padding: 0px;
+  min-width: 350px;
+  min-height: 300px;
+  background-color: gray;
+}
